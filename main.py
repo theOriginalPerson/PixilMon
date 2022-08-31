@@ -69,9 +69,9 @@ winner_flamio = font.render("You win! Congrats!", False, "White")
 winner_beario = font.render("You lose! Better luck next time...", False, "White")
 
 
-##########################
-# functions & animations #
-##########################
+############################
+# functions for commentary #
+############################
 
 def opp_hit():
     print("Beario hits!")
